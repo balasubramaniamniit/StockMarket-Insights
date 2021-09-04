@@ -1,0 +1,166 @@
+,Label,Text,count,source,id
+0,CARDINAL,2022,2,Blogs,8dHVcyrHQkJwu2jdmpbidn
+1,CARDINAL,2400,1,Blogs,jjzVBP5UHXF3FzotueYoM7
+2,CARDINAL,zero,1,Blogs,DNMagn8Fv5MfUrz6jx3Z9n
+3,DATE,November,13,Blogs,VMR3LuUCzfjuoQVPfuTSXL
+4,DATE,September,8,Blogs,MMHDCNhVXCVh2Ka9gjKh5B
+5,DATE,Friday,5,Blogs,UX2nDCDEV3ySt429eLpVCu
+6,DATE,August,3,Blogs,9AJkP8Jv8YHsvfok4URrQ7
+7,DATE,July,3,Blogs,Qf2QetA5Ga2MtbJL784bFm
+26,FAC,Jackson Hole,1,Blogs,Bu8qQXzWmYwNYv8q7QBckP
+27,FAC,Jackson Hole Economic Policy Symposium,1,Blogs,iJKtgFtfFZnrtoXEoLcVEz
+28,GPE,Based,1,Blogs,JVCnFVKzrn2n9GjajtUWqs
+29,GPE,China,1,Blogs,4NPZsRDcXqAq3kHtpXCMGg
+30,GPE,Dallas,1,Blogs,njSDfpbkKhqjGjeWK3i2oB
+31,GPE,Jackson Hole,1,Blogs,WxehMXUVLmUiDaiWh7bNwa
+32,GPE,Torygraph,1,Blogs,nUhrBEUFbzFduGc6WthMwD
+34,LAW,Earth 1960s,1,Blogs,AfWMMo729WUALDy7eU8VLG
+35,LOC,Delta,1,Blogs,E8Pdxwgg3B556CkYvq24wX
+36,NORP,Covid,2,Blogs,8AqZLBhPNR6MuuXK7iuqkQ
+37,NORP,Victorian,1,Blogs,TpuXk2YPXTkcpfdkqrGARU
+38,ORDINAL,15bn,3,Blogs,Nyd6u7vCskoJAe5adv8dMh
+39,ORDINAL,first,3,Blogs,mfxtFW2FKtjqL8Ph5WX3gr
+40,ORDINAL,10bn,1,Blogs,BH2CVpPpoCHEVxw5igKHiu
+41,ORDINAL,second,1,Blogs,GCA2m6GrahpWapm8Nnusam
+42,ORG,FOMC,19,Blogs,WfDnCXBQctt26FumQrFi2M
+43,ORG,Delta,7,Blogs,jxwBWH34i29XkmeFVNqiaU
+44,ORG,Goldman,4,Blogs,e9LQ7qJLYCVqjTJoBveghX
+45,ORG,Tesla,2,Blogs,6iAjUQ6V9AD7rG8j3d2TTy
+46,ORG,AIdriven Robotics,1,Blogs,TU3qUS6nnzrrExa8qkfUpH
+57,PERSON,Powell,11,Blogs,JuEXm7Vp3jjkAfCozjDwax
+58,PERSON,Musk,8,Blogs,UEHFtmu6iEWdURC2W5Aeua
+59,PERSON,Tesla,4,Blogs,P85gGmG3sHkBqFL5NY5aPj
+60,PERSON,Chair Powell,3,Blogs,hP49yGYRit9HzXfsfMw23Y
+61,PERSON,Elon Musk,3,Blogs,jEEodSSWtAcUEitkxbBTbQ
+77,PRODUCT,Give Elon Musk,1,Blogs,jQo7UTYH7zYeBU9boSeFgt
+78,PRODUCT,Progress,1,Blogs,Wbr67zhhxA2V4gqNwfuMj5
+79,PRODUCT,StarLink,1,Blogs,KFAAetobJBiw8C3XA2ztuu
+80,TIME,10am,3,Blogs,FxDEYfqqFMpHyGHcn5frmj
+81,TIME,next morning,1,Blogs,5iaUATNAtX82x35qH6LADx
+82,WORK_OF_ART,Telsa,1,Blogs,8w7pqnRubFZZKJD46FB665
+0,CARDINAL,073,1,News,QYj9WWdv2oqHPyDf7V8pUF
+1,CARDINAL,097,1,News,VjmWkZ2NPScCBwhA9yQDnL
+2,CARDINAL,098,1,News,JSfC4rWrCpzTtgGNaz9Jds
+3,CARDINAL,122,1,News,TtWo68riCgDXSgig67pcDX
+4,CARDINAL,1495188,1,News,TTTaLXpxd3XHq6Xt9Wu39N
+11,DATE,Monday,2,News,mWyzFAFjaGVu5rqPxhjKF5
+12,DATE,112 past three month,1,News,VqNShrjpkoZiNc5ejjDLDB
+13,DATE,14944,1,News,HYpceGbLmYwT4GsRmXrXLB
+14,DATE,4650,1,News,Gziw9bctVGijDsmgDz9QYd
+15,DATE,April,1,News,VFMQymNeckYy4AcBx8oAP3
+23,GPE,Netflix,1,News,8bh5Cqm6HyJ4NwriBhREKi
+24,GPE,US,1,News,UhqBwKXAQyA9MGQ87JyC6S
+25,ORG,Americas Global Wealth Management,1,News,WJjK2n3QGkqNRQ7SJUvadJ
+26,ORG,Federal Reserve,1,News,oRB32HHDKJ4wKcNTwXrATB
+27,ORG,Jan even Securities Exchange Commission,1,News,bupNFKFLbgWQ8dFZK7uQ6b
+28,ORG,Netflix,1,News,PgVPmZvHewfgERLNbpTdsE
+29,ORG,UBS,1,News,iFc54gyrHHL6ApsAs88WhF
+30,PERSON,David Lefkowitz,1,News,dP7aNp3Z5ccf65PPfaQSXV
+31,TIME,afternoon,1,News,QbtMFd4jAf4L49HPNDD36m
+0,CARDINAL,50day,12,Tweet,RHbpWXhXD5jNEeB4rdsfnv
+1,CARDINAL,tcoHhkKr6EmNW,3,Tweet,UxQhdKivKApW9Z4uVGAyUJ
+2,CARDINAL,52Week,3,Tweet,BDUGNWudsMeGC8CMW5RNKV
+3,CARDINAL,10day,2,Tweet,HJhmnsZRLMtoRceY8rn5qX
+4,CARDINAL,one,1,Tweet,UxuxqRVfj6QV4vuaDb8Nge
+57,DATE,today,142,Tweet,XFYbysU53hhoug56FNwU8a
+58,DATE,August 2021,83,Tweet,AN9FPr97hujNuRGQqzrxXs
+59,DATE,three consecutive day,22,Tweet,cgQmd6ENdZbQxjyVvab2Ux
+60,DATE,July 2021,10,Tweet,RroEfGDStyWhN9kEC7xihF
+61,DATE,Monday,4,Tweet,hWb9JpeEHTP9tQRHVAmerD
+125,EVENT,Trading Session Achive,1,Tweet,AELd549zGmgeEZAQeo5voR
+126,EVENT,tcomj9xyvP2WhPolyPlay Integrating CryptoCurrencies,1,Tweet,JVTSuHisPZYQjZfcTC9HeK
+127,FAC,McDonalds really Downtrend Stochastic,1,Tweet,7UmEh94an3PTTe35zvnQp9
+128,FAC,tcoog59eXNlal Alirezazam Depends,1,Tweet,5jiNnvguZoU2kZZnuKFJbb
+129,GPE,Afghanistan,7,Tweet,dUV9cFic3pEXLJWDHaXgeg
+130,GPE,America,4,Tweet,mkfHgTT9tN3ZbBDWwRVDXy
+131,GPE,Kabul,3,Tweet,Bb5sPGZzv3WkvjhYbw5Mbv
+132,GPE,China,3,Tweet,7xvpnF4zH3TGnLTvoUtvaw
+133,GPE,California,2,Tweet,NN96JFvKawCpHMzbUFzpxF
+163,LAW,ICAD 315 Downtrend,1,Tweet,GX8ZQ7FgAFGPG3rDFFLD46
+164,LOC,Northeast Coast,3,Tweet,Z6QbAHBmTHsLXRw3UipL4i
+165,LOC,CEOAdam,1,Tweet,RjYMnQqsW5HqXGifmKtrZP
+166,LOC,Covetrus,1,Tweet,DUZSfqDATkxueUrnikv2Fz
+167,LOC,Europe,1,Tweet,8S7ZUDZsCCyGr6PXH2d4wr
+168,LOC,Middle east,1,Tweet,TTr8w8Hj7BVT2JZA2eGdwR
+172,MONEY,million dollar year,1,Tweet,CV29d2V6wHnV6Yx4ZqQMXN
+173,MONEY,three four dollar,1,Tweet,jGUVSn4F8jvHWpPabfAJ2u
+174,NORP,Chinese,5,Tweet,FpXQ7FuQavKpDvFjr3vGhB
+175,NORP,American,4,Tweet,NwGhEzLpyh9CBqSx8tbbG8
+176,NORP,Aroon,2,Tweet,LLdEtPqTwQCyVGMM4jgy7C
+177,NORP,Republicans,1,Tweet,KggvQfaWy9z4Ki5opa7Mgp
+178,NORP,tcoemVWvzJKXu,1,Tweet,kLaieZAPNFdmoistCrjdYB
+198,ORDINAL,first,3,Tweet,gpfkq8JFvcohzmLE84hByG
+199,ORDINAL,Third,2,Tweet,4CRf9Jdobrhxzj3gdA9T5x
+200,ORDINAL,Second,1,Tweet,EVZDm4AVsAiFF7Zfs3Q3wq
+201,ORG,StockMarket,8,Tweet,k9SdtsKSGpFU5giFYP3tNn
+202,ORG,Trump,6,Tweet,Q463465zxJpdDdTYhHpUKP
+203,ORG,Downtrend Stochastic,6,Tweet,UKpo6WUWWhPghQ3nAZ5XGb
+204,ORG,Lower Weekly Wrap,4,Tweet,QLiYE4u5Gh99YArLZjyUmw
+205,ORG,TaoJonesing,4,Tweet,HhBU4sucrJFh2j5gH37E6b
+467,PERCENT,zero percent,1,Tweet,Lzvckn4S8fVissj32DD7Ab
+468,PERSON,Bollinger Band,10,Tweet,mtJvhue7jkneF74NuEmBK4
+469,PERSON,Biden,5,Tweet,Cim3L3dWCHPDT3tYQrzZBF
+470,PERSON,Bill Gates,3,Tweet,2PMtwHUZpUJ8EUfr4gt4Nn
+471,PERSON,Stockmarket,2,Tweet,RhXYMQupcJeWv8hMM7oJr4
+472,PERSON,Bitcix,2,Tweet,g6qguzBW25HQtTxbAdNVCE
+552,PRODUCT,StockMarket,3,Tweet,L4iYEmLq2Gnx6CjZtwGhGC
+553,PRODUCT,View,2,Tweet,oA3MvopZqU5qFPgbvcMGDL
+554,PRODUCT,500k,1,Tweet,UE5VRN7zLwoCWfUrJmtZJQ
+555,PRODUCT,tconqqurzAzyT StockMarket Crypto,1,Tweet,gXKGugaq4v8XMvkAJdqxdn
+556,PRODUCT,YouTube,1,Tweet,CEVybzcvzcH5Ee7MnmAQHL
+573,TIME,morning,2,Tweet,MC5NdWyMnRUmmt2bkrKCiF
+574,WORK_OF_ART,Cusp Getting Full Approval COVID19,2,Tweet,jmKetpZg39Wfr5Qd73GsRY
+575,WORK_OF_ART,BatteryFire Risks Cost,1,Tweet,VzhytwF99V8FRsEiCf69n7
+576,WORK_OF_ART,Learn,1,Tweet,fYMusXje4A2qeF7UEkJPHc
+577,WORK_OF_ART,Much Been Burned EIP1559,1,Tweet,eAxhohcVKBTiHiU4xCMRgE
+578,WORK_OF_ART,Selected Triggers,1,Tweet,SwT9zjpCUaT79iW4NnKvBW
+0,CARDINAL,20seen,2,Reddit,EApvLdPtbpPbZd9u7tHmx7
+1,CARDINAL,half,2,Reddit,kyNd4Qvy58x9DNgSEgQ4jz
+2,CARDINAL,four,2,Reddit,n35hA2bxKEBLSNB5u9ueeB
+3,CARDINAL,100x,1,Reddit,MSXNzXyKiX7geMtXbJJQSx
+4,CARDINAL,8k,1,Reddit,WxFWBQYHZzKo9HLj9BtxLV
+25,DATE,Monday,4,Reddit,k9TAvTmr49oMFe5Fxt48MY
+26,DATE,20the 20bot,2,Reddit,hhQwvZLLHFJbBvYB5igN6A
+27,DATE,today,2,Reddit,m6U9AkYxNe6gQY5LGxpph4
+28,DATE,month,2,Reddit,kG2J3H2HdHhLypG6Hzb5n7
+29,DATE,last week,2,Reddit,RDp6663CrCKkTwisBQp5M4
+51,EVENT,Forever Until,1,Reddit,9Zvoxw337YDvLWNbrKkWAE
+52,FAC,Boulder Denver,1,Reddit,Zh8ZFQMwG48Yrow68RVhXF
+53,GPE,China,6,Reddit,V27yUc67he46hMiaZ8EYM8
+54,GPE,CURRENTLY,1,Reddit,PjRyDiVoDzcBX2DUrHVDtC
+55,GPE,Costa Rica,1,Reddit,M4jwrTLJh76fSPbYbpCmvK
+56,GPE,Croatia,1,Reddit,7N3ejwhGoFRGZDTDQyMfA3
+57,GPE,India,1,Reddit,BePZbuM3JgSGYnqqNLyQdP
+65,LAW,User Report Total,1,Reddit,2RbWKSXGmkDjTZAbCDctig
+66,LOC,Delta,1,Reddit,D3AmEfhHeXxHjeAXGVFu9Q
+67,MONEY,around billion dollar,1,Reddit,H6P9hjuRn8MhsV6RvE4tas
+68,NORP,Chinese,3,Reddit,Mw6N6ScaFA28MTsLtGiUnK
+69,NORP,ChristIt,1,Reddit,7DDJaXaRiUz6eR3Z8HxFoo
+70,NORP,Dalmatian,1,Reddit,Hs7jfzMsSfdKysnykHtvxP
+71,NORP,Korean,1,Reddit,N8UeWkFqTWYasY5iw2cmWP
+72,NORP,Mans,1,Reddit,7TFzqEsBWkTwhTGu8BXDNx
+79,ORDINAL,first,4,Reddit,nvcUsh6soDJsXqLMFccsRH
+80,ORDINAL,second,2,Reddit,Pmte2xKRsVEPux7UZ5tddF
+81,ORDINAL,60th,1,Reddit,cCx8QdLVvWXSJvAVQeopqz
+82,ORG,Fidelity,2,Reddit,Yquj62PLBnetXn7KNgbxNP
+83,ORG,BABA,2,Reddit,h2eUkPBsPET7SEfQfMJKZw
+84,ORG,Herpes,2,Reddit,LG9watz3hAy3yoEAcaL7Gm
+85,ORG,Tumblr,1,Reddit,jaVDzrjyQqrhqKTL3xv7cy
+86,ORG,Nvidia Guess,1,Reddit,XtfgLZ2Fzo4TWkUbzP4Mtw
+135,PERSON,jack,2,Reddit,DpaJKaPuJFSMAJoaPtCX6N
+136,PERSON,650k Keep,1,Reddit,mRttTgqurjQA2bDJxc8Wmp
+137,PERSON,bubMVST electrolyte,1,Reddit,bXJdJnsyDHigyxjViAFuPe
+138,PERSON,NoPsychopathic,1,Reddit,A9RK2Q9KevtByKXgBUpUTo
+139,PERSON,Pfizer,1,Reddit,nC7bQRptTPVos7kvDjDVV2
+178,PRODUCT,217k,1,Reddit,BuWKQvWZ3K3cSostL9pfL4
+179,PRODUCT,BrooksDive,1,Reddit,eLWbtaKuEdJKVxoJ6RsULq
+180,PRODUCT,Listening,1,Reddit,VcnsE94seoRUfCYHzgADsJ
+181,PRODUCT,Power,1,Reddit,TLHci4BBZ4Ejt5TyxD4B4b
+182,PRODUCT,Telluride,1,Reddit,JYUyqJxAq3TyH2CoxJjB9M
+184,QUANTITY,10pm light,1,Reddit,5uVtMCthP3PRhLzf9nsWeD
+185,QUANTITY,14000 foot,1,Reddit,Emkh46LgnS9qphqBwC3He9
+186,TIME,morning,2,Reddit,2QQTqzHULhCYpuWjbzbcgW
+187,TIME,hole hour,1,Reddit,U4853RzunUAzHcVdv6rPmq
+188,TIME,hour,1,Reddit,Ax2YRHBLYr3J3EQyDj7QH3
+189,TIME,tonight,1,Reddit,36Typvy4ZzmvbXGb7mLkES
+190,WORK_OF_ART,Also Redneck RampageIt like,1,Reddit,a9fN77poN5VZeKPjXx2AFB
