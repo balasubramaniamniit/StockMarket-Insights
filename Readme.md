@@ -20,8 +20,8 @@ News Articles and applies NLP techniques to get sentiments and insights.
 </p>
 
 
-> help the Investors to get a complete view of company stock before investing ,
-> help the Organization to monitor the sentiments, understand the cause for the negative sentiments ,
+-- help the Investors to get a complete view of company stock before investing ,
+-- help the Organization to monitor the sentiments, understand the cause for the negative sentiments ,
   Identify risks and take necessary actions.
 
 - SMI extracts user’s sentiments,key themes,Named entities(Persons,Organizations,Products),Semantic Seach using NLP 
@@ -46,6 +46,7 @@ News Articles and applies NLP techniques to get sentiments and insights.
 | [Real Time Streaming using Pulsar](https://github.com/ncganesh/StockMarket-Insights/blob/main/DataStax%20Workshops/DataStax%20with%20Python%20-%20Real%20Time%20Twitter%20Streaming%20using%20Apache%20Pulsar.ipynb)  
 
 
+![demo](https://github.com/ncganesh/Dash-by-Plotly/blob/master/stockmarketinsight.gif)
 
 
 ### References
