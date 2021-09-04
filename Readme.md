@@ -37,7 +37,7 @@ News Articles and applies NLP techniques to get sentiments and insights.
 
 3.Blogs(Seeking Alpha ,Trader ,Feed Zero ,Hedge ,Calculated Risk etc)
 
- <br />
+ 
 ## DataStax Workshops/Learnings - DataStax using Python
 
 
@@ -51,7 +51,7 @@ News Articles and applies NLP techniques to get sentiments and insights.
 
 ![demo](https://github.com/ncganesh/Dash-by-Plotly/blob/master/stockmarketinsight.gif)
 
- <br />
+ 
 ### References
 
 This dashboard is built using AutoNLP insights[ https://github.com/ncganesh/autonlpinsights ] - 
