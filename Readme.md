@@ -41,9 +41,9 @@ News Articles and applies NLP techniques to get sentiments and insights.
 
 | Notebook  | Description  |       |
 |:----------|:-------------|------:|
-| [DataStax with Python - Insert Pandas DataFrame to Cassandra DB]() 
-| [DataStax with Python - Get Data from Cassandra DB]() 
-| [Real Time Streaming using Pulsar]()  
+| [DataStax with Python - Insert Pandas DataFrame to Cassandra DB](https://github.com/ncganesh/StockMarket-Insights/blob/main/DataStax%20Workshops/DataStax%20with%20Python%20-%20Insert%20Pandas%20DataFrame%20to%20DB.ipynb) 
+| [DataStax with Python - Get Data from Cassandra DB](https://github.com/ncganesh/StockMarket-Insights/blob/main/DataStax%20Workshops/DataStax%20with%20Python%20-%20Part%202%20-%20Get%20data%20from%20DB.ipynb) 
+| [Real Time Streaming using Pulsar](https://github.com/ncganesh/StockMarket-Insights/blob/main/DataStax%20Workshops/DataStax%20with%20Python%20-%20Real%20Time%20Twitter%20Streaming%20using%20Apache%20Pulsar.ipynb)  
 
 
 
