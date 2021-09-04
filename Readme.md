@@ -49,6 +49,7 @@ News Articles and applies NLP techniques to get sentiments and insights.
 | [Text Search]
 | [GraphQL API]
 
+
  <br />
 
 ![demo](https://github.com/ncganesh/Dash-by-Plotly/blob/master/stockmarketinsight.gif)
