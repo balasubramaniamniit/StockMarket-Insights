@@ -10,8 +10,8 @@ def getDBSession():
     cloud_config = {
         'secure_connect_bundle': 'socialmediadata/secure-connect-socialmediadata.zip'
     }
-    auth_provider = PlainTextAuthProvider('fTqqUoMAzKBSiLwfMKkXEBwp',
-                                          "KT_Q6WqmcfOe1dmcHZw9tXbPRQgi,Tpr8KeYM+RAM0xNH9L1gsMPO-dfQPu_ww1l2tq6ZB7eJ4efYHeACk2724hWqXBP7q8ld5kv6nC.iPZQtf0dAPrQ7SlWK30vLN5C")
+    auth_provider = PlainTextAuthProvider('fTqwp',
+                                          "KT_tXbPRQgi,Tpr8KeYM+RN5C") # USE UR KEYS
     cluster = Cluster(cloud=cloud_config, auth_provider=auth_provider)
     session = cluster.connect()
     return session
