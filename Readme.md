@@ -57,7 +57,7 @@ News Articles and applies NLP techniques to get sentiments and insights.
  
 ### References
 
-This dashboard is built using AutoNLP insights[ https://github.com/ncganesh/autonlpinsights ] - 
+ AutoNLP insights[ https://github.com/ncganesh/autonlpinsights ] - 
 which helps to visualize NLP insights with one line of code.
 
 NlpInsightsdashapp [https://github.com/ncganesh/nlpinsightsdashapp] - Dashboard that helps to get NLP Insights from URL.
