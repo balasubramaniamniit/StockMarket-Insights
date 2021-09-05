@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-    <p>Stock Market Insights</p>
+    <p>Stock Market Insights -  https://stockmarketinsights.herokuapp.com/ </p>
 </h3>
 
 <p align="center">
