@@ -49,12 +49,12 @@ stockprice_number_of_days = '8d'
 stocks_screenerview = pd.read_csv('socialmediadata/stocks_screenerview_sectors.csv')
 
 
-#TWEEPY
 
-consumer_key = "Y87MWneNyN18ny32UZQQIg"
-consumer_secret = "03v1r5GNA5gyfxJMeJIcoJn7PGgCIuXMImP2mMZN5g"
-access_token = "326146455-5p0UCnpy7yKSVpp6ibBlVtb3UnjIUBSdRxUgHOkX"
-access_token_secret = "aVJ4xKpWycEk3acf1bGDuygPEzFPh8RPXmsd6fMSU"
+
+consumer_key = ""
+consumer_secret = ""
+access_token = "326146455-"
+access_token_secret = ""
 
 # Creating the authentication object
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
